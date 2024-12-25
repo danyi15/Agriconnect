@@ -1,8 +1,8 @@
 PROSES MENJALANKAN frontend
 
-cd agriconnect-fe
-npm install
-npm run dev
+1. cd agriconnect-frontend
+2. npm install
+3. npm run dev
 
 # React + Vite
 
